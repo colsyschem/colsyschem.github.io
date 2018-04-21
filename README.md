@@ -1,2 +1,2 @@
-# colsyschem.github.io
+# colsyschem
 Colloidal Systems Chemistry
