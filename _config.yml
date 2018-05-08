@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://scholar.google.es/citations?user=BEIjhKEAAAAJ&hl=en
 
-url: http://colsyschem.github.io
+url: https://colsyschem.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -104,5 +104,5 @@ plugins:
   - jemoji
   - jekyll-admin
 
-#jekyll-mentions:
-#    base_url: https://github.com
+jekyll-mentions:
+    base_url: https://github.com/colsyschem
