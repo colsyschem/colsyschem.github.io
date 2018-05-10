@@ -21,7 +21,7 @@ Currently, our research focuses on the synthesis and self-assembly of nanopartic
     </div>
 
     <div class="toright">
-        <p><b>Nanoparticles Synthesis.</b> The shape variety of the nanocrystal defines their optical properties over a broad spectral range. The symmetry breaking, the emergence of crystal defects as well as surface heterogeneity are some of the aspects that bring our attention in studying the nanocrystals growth in the liquid phase. We look for sustainable approaches and automatised process to control the particles shape, size with progressively improve particles quality. </p>
+        <p><b>Nanoparticles Synthesis.</b> The shape variety of the nanocrystal defines their optical properties over a broad spectral range. The symmetry breaking, the emergence of crystal defects as well as surface heterogeneity are some of the aspects that bring our attention in studying the nanocrystals growth in the liquid phase. We look towards sustainable approaches and automatised processes to control the particles shape, size with progressively improving nanocrystals quality. </p>
     </div>
 </div>
 
@@ -30,7 +30,7 @@ Currently, our research focuses on the synthesis and self-assembly of nanopartic
 <div class="side-by-side">
     <div class="toleft">
         <img class="image" src="/assets/images/self-assembly.png" alt="Alt Text" width="300">
-        <figcaption class="caption">Products of static and dynamic self-assembly.</figcaption>
+        <figcaption class="caption">Static and dynamic self-assembly of nanocrystals.</figcaption>
     </div>
 
     <div class="toright">
@@ -56,7 +56,7 @@ Currently, our research focuses on the synthesis and self-assembly of nanopartic
 <div class="side-by-side">
     <div class="toleft">
         <img class="image" src="/assets/images/biosensing.png" alt="Alt Text" width="300">
-        <figcaption class="caption">Colorimetric sensing by molecular recognition.</figcaption>
+        <figcaption class="caption">Plasmon-based biosensing.</figcaption>
     </div>
 
     <div class="toright">

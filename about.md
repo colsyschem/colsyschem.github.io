@@ -13,5 +13,5 @@ description: Current research activities @ ColSysChem
 ---
 <!--![Profile Image]({{ site.url }}/{{ site.picture }})-->
 
-<p>The Colloidal Systems Chemistry group led by Marek Grzelczak, an Ikerbasque Research Associate, started scientific activities in September 2017 at Donostia International Physics Center. The core expertise of the group covers colloidal chemistry with particular attention on the synthesis, surface chemistry and self-assembly of plasmons nanocrystals. By using the materials in photocatalysis (photosynthesis) and biosensing (molecular cognition), we pursue a long-term goal of developing functional nanoparticle-based nanosystems through the implementation of biomimetic principles in material science.</p>
+<p>The Colloidal Systems Chemistry group led by Marek Grzelczak, an Ikerbasque Research Associate, started scientific activities at Donostia International Physics Center in September 2017. The core expertise of the group covers colloidal chemistry with particular attention on the synthesis, surface chemistry and self-assembly of plasmonic nanocrystals. The application of the fabricated nanomaterials in photocatalysis (photosynthesis) and biosensing (liquid biopsy) sets the long-term goal of design colloid-based bioinspired nanosystems.</p>
 

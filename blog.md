@@ -6,16 +6,25 @@ layout: page
 # People
 
 ---
-Group Leader
 
 <img class="image" src="/assets/images/marek.png" alt="Alt Text">
-<figcaption class="caption">Marek Grzelczak, Ikerbasque Research Associate</figcaption>
+<figcaption class="caption">Marek Grzelczak, Ikerbasque Research Associate, Group Leader</figcaption>
+
+---
+<img class="image" src="/assets/images/maria.png" alt="Alt Text">
+<figcaption class="caption">Maria Sanroman Iglesias, Postoctoral Researcher (Indicate Solutions)</figcaption>
+
 ---
 
-Research Team
+<img class="image" src="/assets/images/joscha.png" alt="Alt Text">
+<figcaption class="caption">Joscha Kruse, PhD student, DIPC</figcaption>
 
-- Maria Sanroman Iglesias
-- Joscha Kruse
-- Karolina Kinastowska
+---
 
+<img class="image" src="/assets/images/karolina.png" alt="Alt Text">
+<figcaption class="caption">Karolina Kinastowska, PhD student, Wroclaw University of Technology</figcaption>
 
+---
+Visiting Researchers/Students
+
+- Judit Cizaurre
