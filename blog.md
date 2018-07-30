@@ -27,4 +27,6 @@ layout: page
 ---
 Visiting Researchers/Students
 
-- Judit Cizaurre
+- Judit Cizaurre (UPV/EHU - Donostia)
+- Natalia Koltus (University of Warsaw)
+- Nina Tarnowicz (Wroclaw University of Technology)
