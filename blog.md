@@ -27,6 +27,7 @@ layout: page
 ---
 Visiting Researchers/Students
 
+- Pedro Liz (UPV/EHU - Donostia)
 - Judit Cizaurre (UPV/EHU - Donostia)
 - Natalia Koltus (University of Warsaw)
 - Nina Tarnowicz (Wroclaw University of Technology)
