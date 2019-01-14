@@ -17,7 +17,7 @@ layout: page
 ---
 
 <img class="image" src="/assets/images/Stefan.png" alt="Alt Text">
-<figcaption class="caption">Stefan Markens, PhD student, CIC nanoGUNE / DIPC</figcaption>
+<figcaption class="caption">Stefan Merkens, PhD student, CIC nanoGUNE / DIPC</figcaption>
 
 ---
 
