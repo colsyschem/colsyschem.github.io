@@ -12,7 +12,7 @@ layout: page
 
 ---
 <img class="image" src="/assets/images/maria.png" alt="Alt Text">
-<figcaption class="caption">Maria Sanroman Iglesias, Postdoctoral Researcher (Indicate Solutions)</figcaption>
+<figcaption class="caption">Maria Sanroman Iglesias, Postdoctoral Researcher</figcaption>
 
 ---
 
