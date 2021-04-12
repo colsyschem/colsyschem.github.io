@@ -32,6 +32,7 @@ layout: page
 ---
 Visiting Researchers/Students
 
+- Emilie Dupont (UPV/EHU - Donostia)
 - Pedro Liz (UPV/EHU - Donostia)
 - Judit Cizaurre (UPV/EHU - Donostia)
 - Natalia Koltus (University of Warsaw)
