@@ -8,7 +8,7 @@ layout: page
 ---
 
 <img class="image" src="/assets/images/marek.png" alt="Alt Text">
-<figcaption class="caption">Marek Grzelczak, Ikerbasque Research Associate, Group Leader</figcaption>
+<figcaption class="caption">Marek Grzelczak, CSIC Research Scientist, Group Leader</figcaption>
 
 ---
 <img class="image" src="/assets/images/maria.png" alt="Alt Text">
