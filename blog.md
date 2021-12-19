@@ -32,8 +32,12 @@ layout: page
 ---
 Visiting Researchers/Students
 
-- Emilie Dupont (UPV/EHU - Donostia)
-- Pedro Liz (UPV/EHU - Donostia)
-- Judit Cizaurre (UPV/EHU - Donostia)
-- Natalia Koltus (University of Warsaw)
-- Nina Tarnowicz (Wroclaw University of Technology)
+- June Aquirre (TFM, UPV/EHU - Donostia)
+- Aimar Marauri (TFG and TFM, UPV/EHU - Donostia)
+- Xabier Belauzaran Sanz (TFG, UPV/EHU - Donostia)
+- Joseba Solozabal (TFG, UPV/EHU - Donostia)
+- Emilie Dupont (TFM, UPV/EHU - Donostia)
+- Pedro Liz (TFG, UPV/EHU - Donostia)
+- Judit Cizaurre (TFG and TFM, UPV/EHU - Donostia)
+- Natalia Koltus (PhD, University of Warsaw)
+- Nina Tarnowicz-Staniak (PhD, Wroclaw University of Technology)

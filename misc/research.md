@@ -11,15 +11,14 @@ Our research focuses on the synthesis and self-assembly of nanoparticles and the
 ---
 {% endhighlight %}
 
-## Nanoparticle synthesis 
-The control over the particles shape and size at the nanoscale gives the opportunity to 
-    
+## Nanoparticle synthesis
+The control over the particles shape and size at the nanoscale 
+
 ## Self-assembly
-Spatial organisation of nanoparticles is the 
-    
+Spatial organisation of nanoparticles is the
+
 ## All-metal photochemistry
-Plasmonic nanoparticles 
-    
+Plasmonic nanoparticles
+
 ## Biosensing
 Liquid biopsy
-
