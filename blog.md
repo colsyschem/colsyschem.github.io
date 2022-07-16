@@ -3,37 +3,57 @@ title: People
 layout: page
 
 ---
-# People
+# Group Members
 
 ---
 
-<img class="image" src="/assets/images/marek.png" alt="Alt Text">
-<figcaption class="caption">Marek Grzelczak, CSIC Research Scientist, Group Leader</figcaption>
+## Group Leaders
 
----
-<img class="image" src="/assets/images/maria.png" alt="Alt Text">
-<figcaption class="caption">Maria Sanroman Iglesias, Postdoctoral Researcher</figcaption>
-
----
-
-<img class="image" src="/assets/images/Stefan.png" alt="Alt Text">
-<figcaption class="caption">Stefan Merkens, PhD student, CIC nanoGUNE / DIPC</figcaption>
+Marek Grzelczak
+Yury Rakovich
 
 ---
 
-<img class="image" src="/assets/images/joscha.png" alt="Alt Text">
-<figcaption class="caption">Joscha Kruse, PhD student, DIPC / CIC nanoGUNE</figcaption>
+## Postdoctoral Researchers
+
+Maria Sanromán Iglesias
+Victor Krivenkov (MSCA-IF)
+Ane Escobar (Gipuzkoa Fellow)
+Adam Olejniczak
 
 ---
 
-<img class="image" src="/assets/images/karolina.png" alt="Alt Text">
-<figcaption class="caption">Karolina Kinastowska, PhD student, Wroclaw University of Technology</figcaption>
+## PhD students
+
+Alba Jumbo Nogales
+Zuzanna Lawera
+Joscha Kruse
 
 ---
-Visiting Researchers/Students
 
-- June Aquirre (TFM, UPV/EHU - Donostia)
-- Aimar Marauri (TFG and TFM, UPV/EHU - Donostia)
+## Master students
+
+June Aquirre
+Aimar Marauri
+
+---
+
+## Visitors
+
+Leon Begiristain (University of Barcelona)
+Maciej Bagiński (University of Warsaw)
+
+---
+
+## Group Picture (2022)
+
+<img class="image" src="/assets/images/NanoSpec.jpg" alt="Alt Text">
+<figcaption class="caption">From left: Zuzanna Lawera, Yury Rakovich, Marek Grzelczak, Alba Jumbo Nogales, Joscha Kruse, Ane Escobar, Maria Sanromán Iglesias, Victor Krivenkov</figcaption>
+
+---
+
+## Past group members
+
 - Xabier Belauzaran Sanz (TFG, UPV/EHU - Donostia)
 - Joseba Solozabal (TFG, UPV/EHU - Donostia)
 - Emilie Dupont (TFM, UPV/EHU - Donostia)
