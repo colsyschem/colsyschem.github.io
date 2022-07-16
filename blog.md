@@ -4,7 +4,7 @@ layout: page
 
 ---
 # Group Members
----
+
 <img class="image" src="/assets/images/NanoSpec_web.jpg" alt="Alt Text">
 <figcaption class="caption">Group picture (2022). From left: Zuzanna Lawera, Yury Rakovich, Marek Grzelczak, Alba Jumbo Nogales, Joscha Kruse, Ane Escobar, Maria Sanromán Iglesias, Victor Krivenkov</figcaption>
 
@@ -24,9 +24,11 @@ layout: page
 
 ### PhD students
 
+- Joscha Kruse
+- Karolina Kinastowska
+- Stefan Merkens
 - Alba Jumbo Nogales
 - Zuzanna Lawera
-- Joscha Kruse
 
 ### Master students
 
