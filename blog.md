@@ -4,51 +4,40 @@ layout: page
 
 ---
 # Group Members
+---
+## Group Picture (2022)
 
+<img class="image" src="/assets/images/NanoSpec_web.jpg" alt="Alt Text">
+<figcaption class="caption">From left: Zuzanna Lawera, Yury Rakovich, Marek Grzelczak, Alba Jumbo Nogales, Joscha Kruse, Ane Escobar, Maria Sanromán Iglesias, Victor Krivenkov</figcaption>
 ---
 
-## Group Leaders
+### Group Leaders
 
 Marek Grzelczak
 Yury Rakovich
 
----
-
-## Postdoctoral Researchers
+### Postdoctoral Researchers
 
 Maria Sanromán Iglesias
 Victor Krivenkov (MSCA-IF)
 Ane Escobar (Gipuzkoa Fellow)
 Adam Olejniczak
 
----
-
-## PhD students
+### PhD students
 
 Alba Jumbo Nogales
 Zuzanna Lawera
 Joscha Kruse
 
----
-
-## Master students
+### Master students
 
 June Aquirre
 Aimar Marauri
-
----
 
 ## Visitors
 
 Leon Begiristain (University of Barcelona)
 Maciej Bagiński (University of Warsaw)
-
----
-
-## Group Picture (2022)
-
-<img class="image" src="/assets/images/NanoSpec.jpg" alt="Alt Text">
-<figcaption class="caption">From left: Zuzanna Lawera, Yury Rakovich, Marek Grzelczak, Alba Jumbo Nogales, Joscha Kruse, Ane Escobar, Maria Sanromán Iglesias, Victor Krivenkov</figcaption>
 
 ---
 
