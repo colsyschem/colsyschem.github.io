@@ -11,7 +11,8 @@ author: marekgrzelczak
 description: Current research activities @ ColSysChem
 ---
 
-Currently, our research focuses on the synthesis and self-assembly of nanoparticles for photochemistry and biosensing.
+Our research interests are related to the bottom-up nanofabrication of new emerging materials using nanoparticle as building blocks and their use in plasmonic catalysis, biosensing, and nueroscience.
+
 
 ---
 <div class="side-by-side">
@@ -63,8 +64,3 @@ Currently, our research focuses on the synthesis and self-assembly of nanopartic
         <p><b>Biosensing.</b> Colloidal biosensors based on metallic nanoparticles allow for rapid detection of biomolecules in physiological media at ultra-low concentrations. Within the collaboration with industrial partners, we focus on improving the optical signal transduction through the selective assembly of nanoparticles in the presence of DNA molecules. Colorimetric detection of the mutations in genetic material offers new solutions for liquid biopsy.</p>
     </div>
 </div>
-
-
-
-
-
