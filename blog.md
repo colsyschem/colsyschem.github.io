@@ -17,28 +17,26 @@ layout: page
 
 ### Postdoctoral Researchers
 
-- Maria Sanromán Iglesias
 - Victor Krivenkov (MSCA-IF)
 - Ane Escobar (Gipuzkoa Fellow)
+- Anish Rao (Juan de la Cierva Fellow)
 - Adam Olejniczak
+
+### Researchers
+
+- Ana Sanchez Iglesias
 
 ### PhD students
 
-- Joscha Kruse
-- Karolina Kinastowska
 - Stefan Merkens
 - Alba Jumbo Nogales
 - Zuzanna Lawera
 
 ### Master students
 
-- June Aquirre
-- Aimar Marauri
+- Gaizka Otegui
 
 ## Visitors
-
-- Leon Begiristain (University of Barcelona)
-- Maciej Bagiński (University of Warsaw)
 
 ---
 
@@ -51,3 +49,7 @@ layout: page
 - Judit Cizaurre (TFG and TFM, UPV/EHU - Donostia)
 - Natalia Koltus (PhD, University of Warsaw)
 - Nina Tarnowicz-Staniak (PhD, Wroclaw University of Technology)
+- Maria Sanroman Iglesias (Postdoctoral Researcher, MPC)
+- Joscha Kruse (PhD student, DIPC)
+- June Aquirre (TFM, UPV/EHU - Donostia)
+- Aimar Marauri (TFM, UPV/EHU - Donostia)
