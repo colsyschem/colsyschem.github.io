@@ -22,19 +22,20 @@ layout: page
 - Anish Rao (Juan de la Cierva Fellow)
 - Adam Olejniczak
 
-### Researchers
+### Research Assistant
 
 - Ana Sanchez Iglesias
 
 ### PhD students
 
 - Stefan Merkens
+- Nina Tarnowicz-Staniak
 - Alba Jumbo Nogales
 - Zuzanna Lawera
 
 ### Master students
 
-- Gaizka Otegui
+- Gaizka Otegi Lopez
 
 ## Visitors
 
