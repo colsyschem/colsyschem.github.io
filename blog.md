@@ -53,3 +53,4 @@ layout: page
 - Joscha Kruse (PhD student, DIPC)
 - June Aquirre (TFM, UPV/EHU - Donostia)
 - Aimar Marauri (TFM, UPV/EHU - Donostia)
+- Elisa Erice (Ceit - Donostia)
