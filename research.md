@@ -35,7 +35,7 @@ Our research interests are related to the bottom-up nanofabrication of new emerg
     </div>
 
     <div class="toright">
-        <p><b>Self-assembly.</b> Spatial distribution of nanoparticles in the liquid phase becomes a leading strategy for the bottom-up fabrication of either device-focused large-scale static assemblies or stimuli-responsive dynamic nanosystems. We focus on the system design to control inter-particle forces, the length-scale of the assemblies, and overall optical properties to build sustainable architectures operating at non-equilibrium conditions.</p>
+        <p><b>Bottom up fabrication through nanoparticles self-assembly.</b> Spatial distribution of nanoparticles in the liquid phase becomes a leading strategy for the bottom-up fabrication of either device-focused large-scale static assemblies or stimuli-responsive dynamic nanosystems. We focus on the system design to control inter-particle forces, the length-scale of the assemblies, and overall optical properties to build sustainable architectures operating at non-equilibrium conditions.</p>
     </div>
 </div>
 
@@ -48,7 +48,7 @@ Our research interests are related to the bottom-up nanofabrication of new emerg
     </div>
 
     <div class="toright">
-        <p><b>Photochemistry.</b> By mimicking chemical processes typical in natural photosynthesis, we focus on using self-assembled nanoparticles of well-defined optical properties for light-driven regeneration of biological molecules - cofactors. We put attention on the architecture of the nanoscale building blocks and the control over the energy flow under light conditions that are crucial in improving the efficiency of the photochemical processes.</p>
+        <p><b>Plasmonic Catalysis.</b> By mimicking chemical processes typical in natural photosynthesis, we focus on using self-assembled nanoparticles of well-defined optical properties for light-driven regeneration of biological molecules - cofactors. We put attention on the architecture of the nanoscale building blocks and the control over the energy flow under light conditions that are crucial in improving the efficiency of the photochemical processes.</p>
     </div>
 </div>
 
@@ -61,6 +61,6 @@ Our research interests are related to the bottom-up nanofabrication of new emerg
     </div>
 
     <div class="toright">
-        <p><b>Biosensing.</b> Colloidal biosensors based on metallic nanoparticles allow for rapid detection of biomolecules in physiological media at ultra-low concentrations. Within the collaboration with industrial partners, we focus on improving the optical signal transduction through the selective assembly of nanoparticles in the presence of DNA molecules. Colorimetric detection of the mutations in genetic material offers new solutions for liquid biopsy.</p>
+        <p><b>Nanomaterials for Live Science.</b> To apply the designed constructs, we develop, from one side, colorimetric sensors based on plasmonic nanoparticles for liquid biopsy (cancer detection) and for the detection of infectious diseases, and from another side, hybrid nanomaterials (plasmonic-semiconducting) for neuroscience.</p>
     </div>
 </div>
