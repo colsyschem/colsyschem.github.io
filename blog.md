@@ -6,7 +6,7 @@ layout: page
 # Group Members
 
 <img class="image" src="/assets/images/NanoSpec_web.jpg" alt="Alt Text">
-<figcaption class="caption">Group picture (2022). From left: Zuzanna Lawera, Yury Rakovich, Marek Grzelczak, Alba Jumbo Nogales, Joscha Kruse, Ane Escobar, Maria Sanromán Iglesias, Victor Krivenkov</figcaption>
+<figcaption class="caption">Group picture (2023). From left: Marek Grzelczak, Jehyeok Ryu, Alba Jumbo Nogales, Ane Escobar Fernandez, Zuzanna Lawera, Adam Olejniczak, Anish Rao, Victor Krivenkov, Yury Rakovich</figcaption>
 
 ---
 
@@ -28,10 +28,11 @@ layout: page
 
 ### PhD students
 
-- Stefan Merkens
-- Nina Tarnowicz-Staniak
 - Alba Jumbo Nogales
 - Zuzanna Lawera
+- Jehyeok Ryu
+- Stefan Merkens (CIC nanoGUNE)
+- Nina Tarnowicz-Staniak (Wroclaw University of Technology and Science)
 
 ### Master students
 
