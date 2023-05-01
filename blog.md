@@ -49,7 +49,6 @@ layout: page
 - Pedro Liz (TFG, UPV/EHU - Donostia)
 - Judit Cizaurre (TFG and TFM, UPV/EHU - Donostia)
 - Natalia Koltus (PhD, University of Warsaw)
-- Nina Tarnowicz-Staniak (PhD, Wroclaw University of Technology)
 - Maria Sanroman Iglesias (Postdoctoral Researcher, MPC)
 - Joscha Kruse (PhD student, DIPC)
 - June Aquirre (TFM, UPV/EHU - Donostia)
