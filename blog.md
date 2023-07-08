@@ -33,6 +33,7 @@ layout: page
 - Alba Jumbo Nogales
 - Zuzanna Lawera
 - Nina Tarnowicz-Staniak (Wroclaw University of Technology and Science)
+- Jehyeok Ryu (DIPC)
 
 ### Master students
 
