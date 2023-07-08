@@ -10,16 +10,17 @@ layout: page
 
 ---
 
-### Group Leaders
+### Research Staff
 
-- Marek Grzelczak
-- Yury Rakovich
+- Marek Grzelczak - Head of group
+- Yury Rakovich - Ikerbasque Research Professor
 
-### Postdoctoral Researchers
+### Research Fellows
 
-- Victor Krivenkov (MSCA-IF)
 - Ane Escobar (Gipuzkoa Fellow)
 - Anish Rao (Juan de la Cierva Fellow)
+- Luis Montaño-Priede
+- Victor Krivenkov
 - Adam Olejniczak
 
 ### Research Assistant
@@ -28,10 +29,9 @@ layout: page
 
 ### PhD students
 
+- Stefan Merkens (CIC nanoGUNE)
 - Alba Jumbo Nogales
 - Zuzanna Lawera
-- Jehyeok Ryu
-- Stefan Merkens (CIC nanoGUNE)
 - Nina Tarnowicz-Staniak (Wroclaw University of Technology and Science)
 
 ### Master students
@@ -54,4 +54,4 @@ layout: page
 - Joscha Kruse (PhD student, DIPC)
 - June Aquirre (TFM, UPV/EHU - Donostia)
 - Aimar Marauri (TFM, UPV/EHU - Donostia)
-- Elisa Erice (Ceit - Donostia)
+- Elisa Erice (CEIT - Donostia)
