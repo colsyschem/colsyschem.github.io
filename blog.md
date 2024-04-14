@@ -29,22 +29,20 @@ layout: page
 
 ### PhD students
 
-- Stefan Merkens (CIC nanoGUNE)
 - Alba Jumbo Nogales
 - Zuzanna Lawera
 - Nina Tarnowicz-Staniak (Wroclaw University of Technology and Science)
 - Jehyeok Ryu (DIPC)
+- Aadesh Mohan Naik
 
-### Master students
-
-- Gaizka Otegi Lopez
-
-## Visitors
 
 ---
 
 ## Past group members
 
+- Stefan Merkens (CIC nanoGUNE)
+- Elisa Erice (CEIT - Donostia)
+- Gaizka Otegi Lopez
 - Xabier Belauzaran Sanz (TFG, UPV/EHU - Donostia)
 - Joseba Solozabal (TFG, UPV/EHU - Donostia)
 - Emilie Dupont (TFM, UPV/EHU - Donostia)
@@ -55,4 +53,4 @@ layout: page
 - Joscha Kruse (PhD student, DIPC)
 - June Aquirre (TFM, UPV/EHU - Donostia)
 - Aimar Marauri (TFM, UPV/EHU - Donostia)
-- Elisa Erice (CEIT - Donostia)
+
