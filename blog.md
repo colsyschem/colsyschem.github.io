@@ -5,8 +5,8 @@ layout: page
 ---
 # Group Members
 
-<img class="image" src="/assets/images/NanoSpec_web.jpg" alt="Alt Text">
-<figcaption class="caption">Group picture (2024). From left: Marek Grzelczak, Jehyeok Ryu, Alba Jumbo Nogales, Ane Escobar Fernandez, Zuzanna Lawera, Adam Olejniczak, Anish Rao, Victor Krivenkov, Yury Rakovich</figcaption>
+<img class="image" src="/assets/images/ColSysChem_2024.jpg" alt="Alt Text">
+<figcaption class="caption">Group picture (2024). From left: Alba Jumbo Nogales, Ana Sánchez-Iglesias, Ane Escobar Fernandez, Marek Grzelczak, Anish Rao, Luis Montaño-Priede</figcaption>
 
 ---
 
