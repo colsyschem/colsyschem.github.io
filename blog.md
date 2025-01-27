@@ -17,7 +17,6 @@ layout: page
 ### Research Fellows
 
 - Ane Escobar (Gipuzkoa Fellow)
-- Anish Rao (Juan de la Cierva Fellow)
 - Luis Montaño-Priede
 
 ### Research Assistant
@@ -27,14 +26,17 @@ layout: page
 ### PhD students
 
 - Zuzanna Lawera
-- Nina Tarnowicz-Staniak (Wroclaw University of Technology and Science)
 - Aadesh Mohan Naik
-- Alban Giraudon (Joint PhD: UPV/EHU and the University of Bordeaux) 
 
+### TFG students
+
+- Aimar López
 ---
 
 ## Past group members
 
+- Anish Rao (Juan de la Cierva Fellow)
+- Nina Tarnowicz-Staniak (Wroclaw University of Technology and Science)
 - Marek Czyszczon (Wroclaw University of Technology and Science)
 - Alba Jumbo Nogales (Currently at Max-Planck Institute)
 - Stefan Merkens (CIC nanoGUNE)
