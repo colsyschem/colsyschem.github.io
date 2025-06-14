@@ -17,7 +17,7 @@ layout: page
 ### Research Fellows
 
 - Ane Escobar (Gipuzkoa Fellow)
-- Luis Montaño-Priede
+- Luis Montaño-Priede (IKUR Postdoctoral Researcher
 
 ### Research Assistant
 
@@ -36,21 +36,22 @@ layout: page
 
 ## Past group members
 
-- Anish Rao (Juan de la Cierva Fellow)
-- Nina Tarnowicz-Staniak (Wroclaw University of Technology and Science)
+- Artem Kulytskyy (Zubiri Monteo)
+- Anish Rao (Juan de la Cierva Fellow, Currently at U. Fribourg)
+- Nina Tarnowicz-Staniak (PhD, Wroclaw University of Technology and Science)
 - Marek Czyszczon (Wroclaw University of Technology and Science)
-- Alba Jumbo Nogales (Currently at Max-Planck Institute)
-- Stefan Merkens (CIC nanoGUNE)
+- Alba Jumbo Nogales (PhD, UPV/EHU - Currently at Max-Planck Institute)
+- Stefan Merkens (PhD, UPV/EHU/CIC nanoGUNE)
 - Elisa Erice (CEIT - Donostia)
-- Gaizka Otegi Lopez
+- Gaizka Otegi Lopez (TFM, UPV/EHU - Donostia)
 - Xabier Belauzaran Sanz (TFG, UPV/EHU - Donostia)
 - Joseba Solozabal (TFG, UPV/EHU - Donostia)
 - Emilie Dupont (TFM, UPV/EHU - Donostia)
 - Pedro Liz (TFG, UPV/EHU - Donostia)
 - Judit Cizaurre (TFG and TFM, UPV/EHU - Donostia)
 - Natalia Koltus (PhD, University of Warsaw)
-- Maria Sanroman Iglesias (Postdoctoral Researcher, MPC)
-- Joscha Kruse (Currently at Orion)
+- Maria Sanroman Iglesias (Postdoctoral Researcher, MPC, Currently FoodBioTech)
+- Joscha Kruse (PhD, UPV/EHU - Currently at Orion)
 - June Aquirre (TFM, UPV/EHU - Donostia)
 - Aimar Marauri (TFM, UPV/EHU - Donostia)
 
