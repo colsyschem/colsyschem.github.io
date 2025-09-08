@@ -13,54 +13,16 @@ description: Current research activities @ ColSysChem
 
 Our research interests are related to the bottom-up nanofabrication of new emerging materials using nanoparticle as building blocks and their use in plasmonic catalysis, biosensing, and nueroscience.
 
-
 ---
-<div class="side-by-side">
-    <div class="toleft">
-        <img class="image" src="/assets/images/synthesis.png" alt="Alt Text" width="300">
-        <figcaption class="caption">Anisotropic crystal growth from pentatwinned seeds. </figcaption>
-    </div>
 
-    <div class="toright">
-        <p><b>Nanoparticles Synthesis.</b> The shape variety of the nanocrystal defines their optical properties over a broad spectral range. The symmetry breaking, the emergence of crystal defects as well as surface heterogeneity are some of the aspects that bring our attention in studying the nanocrystals growth in the liquid phase. We look towards sustainable approaches and automatised processes to control the particles shape, size with progressively improving nanocrystals quality. </p>
-    </div>
-</div>
+**Precision Nanochemistry**: In this research line, we focus on developing new synthetic protocols for anisotropic nanoparticles, determining new metrics to assess their quality, utilizing interpretive machine learning to extract information, and thereby gaining new knowledge on growth mechanisms. We also deploy AI-driven lab automation to improve synthesis scalability without compromising batch-to-batch consistency.
 
 ---
 
-<div class="side-by-side">
-    <div class="toleft">
-        <img class="image" src="/assets/images/self-assembly.png" alt="Alt Text" width="300">
-        <figcaption class="caption">Static and dynamic self-assembly of nanocrystals.</figcaption>
-    </div>
-
-    <div class="toright">
-        <p><b>Bottom up fabrication through nanoparticles self-assembly.</b> Spatial distribution of nanoparticles in the liquid phase becomes a leading strategy for the bottom-up fabrication of either device-focused large-scale static assemblies or stimuli-responsive dynamic nanosystems. We focus on the system design to control inter-particle forces, the length-scale of the assemblies, and overall optical properties to build sustainable architectures operating at non-equilibrium conditions.</p>
-    </div>
-</div>
+**Colloidal Systems Chemistry for Living Technology**: By following biomimetic principles, we utilize nanoparticle building blocks in nanosystems. We investigate the role of stimuli in the reversible clustering of optically active colloids, the mechanisms of self-oscillatory patterns at the nanoscale, and the impact of thermoplasmonic on chemical conversion and soft robotics. We develop these rationally-designed nanosystems within the context of living technologies, an emerging subfield of artificial life-based research.
 
 ---
 
-<div class="side-by-side">
-    <div class="toleft">
-        <img class="image" src="/assets/images/photochemistry.png" alt="Alt Text" width="300">
-        <figcaption class="caption">Plasmon-based light harvesting system.</figcaption>
-    </div>
-
-    <div class="toright">
-        <p><b>Plasmonic Catalysis.</b> By mimicking chemical processes typical in natural photosynthesis, we focus on using self-assembled nanoparticles of well-defined optical properties for light-driven regeneration of biological molecules - cofactors. We put attention on the architecture of the nanoscale building blocks and the control over the energy flow under light conditions that are crucial in improving the efficiency of the photochemical processes.</p>
-    </div>
-</div>
+**Nanoparticles for Biosensing and Neurotechnologies**: Beyond basic research, we aim to transition our research outcomes into applied life sciences. On one side, we use optically active nanoparticles and nanosystems for the development of colorimetric biosensors for infectious diseases (bacteria and viruses) in the context of food safety. On the other hand, we develop nanoparticle-based products for neurotechnologies.
 
 ---
-
-<div class="side-by-side">
-    <div class="toleft">
-        <img class="image" src="/assets/images/biosensing.png" alt="Alt Text" width="300">
-        <figcaption class="caption">Plasmon-based biosensing.</figcaption>
-    </div>
-
-    <div class="toright">
-        <p><b>Nanomaterials for Live Science.</b> To apply the designed constructs, we develop, from one side, colorimetric sensors based on plasmonic nanoparticles for liquid biopsy (cancer detection) and for the detection of infectious diseases, and from another side, hybrid nanomaterials (plasmonic-semiconducting) for neuroscience.</p>
-    </div>
-</div>
