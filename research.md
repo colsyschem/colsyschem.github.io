@@ -19,7 +19,7 @@ Our research interests are focused on bottom-up nanofabrication of new, emerging
 
 ---
 
-**Colloidal Systems Chemistry for Living Technology**: By following biomimetic principles, we use nanoparticle building blocks in nanosystems. We investigate the role of stimuli in the reversible clustering of optically active colloids, the mechanisms of self-oscillatory patterns at the nanoscale, and the impact of thermoplasmonic on chemical conversion and soft robotics. We develop these rationally-designed nanosystems within the context of living technologies, an emerging subfield of artificial life-based research.
+**Colloidal Systems Chemistry for Living Technologies**: By following biomimetic principles, we use nanoparticle building blocks in nanosystems. We investigate the role of stimuli in the reversible clustering of optically active colloids, the mechanisms of self-oscillatory patterns at the nanoscale, and the impact of thermoplasmonic on chemical conversion and soft robotics. We develop these rationally-designed nanosystems within the context of living technologies, an emerging subfield of artificial life-based research.
 
 ---
 
